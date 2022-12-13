@@ -1,0 +1,7 @@
+주소 : https://www.apple.com/kr/    (애플스토어)   https://locate.apple.com/kr/ko/ (서브)
+
+상단메뉴바 : 화면 내려도 고정, 메뉴에 마우스 hover시 글자변경, 반응형 가로길이 줄이면 메뉴창변경
+메인 : 그리드를 이용하여 배경이미지 배치, 앱솔루트로 해당 배경마다 레이아웃 맞춰서 글자 배치, 가로화면 줄이면 메인하단 이미지 줄어들고 배경이미지 크기 축소, 글자 레이아웃 재배치
+하단 : max-width 이용하여 최대크기조절 하단 a태그로 리셀러글자 클릭 시 apple-main.html에서 apple-sub.html (https://locate.apple.com/kr/ko/)로 이동
+폰트는 막혀있어서 사용 불가했습니다.
+
